@@ -1,8 +1,7 @@
-import turtle
 import turtle as a
 import time
 
-turtle.Screen().setup(width=0.5, height=0.75, startx=0, starty=0)
+a.Screen().setup(width=0.5, height=0.75, startx=0, starty=0)
 
 a.pensize(1)
 a.color("white")
