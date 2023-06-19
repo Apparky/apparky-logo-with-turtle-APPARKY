@@ -69,3 +69,16 @@ a.write("PPARKY", font=('calibre', 49, 'normal'), align="right")
 
 a.hideturtle()
 time.sleep(20)
+
+
+
+
+
+
+
+
+
+
+
+
+
